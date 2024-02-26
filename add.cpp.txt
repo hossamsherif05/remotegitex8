@@ -3,5 +3,6 @@ using namespace std;
 int x,y;
 cin>>x>>y;
 cout<<"the result is"<<endl;
+court<<endl;
 cout<<X<<y;
 return 0;
